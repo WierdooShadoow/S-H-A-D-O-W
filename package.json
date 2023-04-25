@@ -1,16 +1,16 @@
 {
     "name": "S H A D Y",
     "version": "1.2.14",
-    "description": "Only Hina Bot.",
-    "main": "main.js",
+    "description": "Hina Bot By Shady.",
+    "main": "hina.js",
     "scripts": {
         "start": "node index",
         "login": "node login",
         "test": "node --trace-warnings --use_strict --async-stack-traces mirai"
     },
     "repository": {
-        "type": "git",
-        "url": "git+https://github.com/D-Jukie/miraiv2.git"
+        "type": "Facebook",
+        "url": "https://www.facebook.com/profile.php?id=100080263513055&mibextid=ZbWKwL"
     },
     "author": "S H A D Y",
     "license": "GPL-3.0",
