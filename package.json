@@ -1,8 +1,8 @@
 {
     "name": "S H A D Y",
-    "version": "1.2.14",
+    "version": "1.0.0",
     "description": "Hina Bot By Shady.",
-    "main": "hina.js",
+    "main": "Hina.js",
     "scripts": {
         "start": "node index",
         "login": "node login",
@@ -10,7 +10,7 @@
     },
     "repository": {
         "type": "Facebook",
-        "url": "https://www.facebook.com/profile.php?id=100080263513055&mibextid=ZbWKwL"
+        "url": "https://www.facebook.com/profile.php?id=100000563665041"
     },
     "author": "S H A D Y",
     "license": "GPL-3.0",
